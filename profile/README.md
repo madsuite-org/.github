@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-MadSuite is a suite of open-source optimization software for GPUs, written in [Julia](https://julialang.org). It covers algebraic modeling, nonlinear and linear programming solvers, and domain-specific modeling libraries.
+MadSuite is a suite of open-source optimization software for GPUs. It covers algebraic modeling, nonlinear and linear programming solvers, and domain-specific modeling libraries.
 
 - Website, with packages, publications, and talks: [madsuite.org](https://madsuite.org)
 - Mailing list: [subscribe](https://mailman.mit.edu/mailman/listinfo/madsuite)
