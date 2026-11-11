@@ -23,7 +23,6 @@ MadSuite is a suite of open-source optimization software for GPUs, written in [J
 | [ExaModels.jl](https://github.com/madsuite-org/ExaModels.jl) | Algebraic modeling and automatic differentiation for GPUs, based on a SIMD abstraction of nonlinear programs |
 | [MPCCModels.jl](https://github.com/madsuite-org/MPCCModels.jl) | NLPModels.jl extension for modeling MPCCs, used by CCOpt.jl |
 | [NLPModelsExtensions.jl](https://github.com/madsuite-org/NLPModelsExtensions.jl) | Extensions to NLPModels.jl |
-| [ExaPowerIO.jl](https://github.com/madsuite-org/ExaPowerIO.jl) | Minimal reader for the MATPOWER power system data format |
 
 ### Domain-specific libraries
 
@@ -37,6 +36,7 @@ MadSuite is a suite of open-source optimization software for GPUs, written in [J
 | Package | Description |
 |---|---|
 | [MadCheck.jl](https://github.com/madsuite-org/MadCheck.jl) | Automatic diagnosis tool for nonlinear programs |
+| [ExaPowerIO.jl](https://github.com/madsuite-org/ExaPowerIO.jl) | Minimal reader for the MATPOWER power system data format |
 
 ### Benchmark libraries
 
