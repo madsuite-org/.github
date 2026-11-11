@@ -52,4 +52,11 @@ MadSuite is a suite of open-source optimization software for GPUs, written in [J
 | [MPCCbenchmark.jl](https://github.com/madsuite-org/MPCCbenchmark.jl) | Large-scale mathematical programs with complementarity constraints |
 | [MadNLPBenchmark.jl](https://github.com/madsuite-org/MadNLPBenchmark.jl) | Baseline benchmark for tracking MadNLP.jl performance across commits |
 
+### Tutorials and talks
+
+- **IFAC 2026 pre-congress workshop** (August 2026): GPU Acceleration in Optimization and Optimal Control. [Website](https://madsuite.org/ifac2026/), [notebooks](https://github.com/madsuite-org/ifac2026-notebooks)
+- **2025 INFORMS Annual Meeting** (October 2025): Solving Large-Scale, Sparse, Constrained Nonlinear Optimization Problems on GPUs. [Slides](https://github.com/madsuite-org/slides-informs-2025/blob/main/Shin-slides.pdf)
+- **IEEE PowerTech 2025 tutorial** (June 2025): GPU-Accelerated Optimization for Power Systems with MadNLP and ExaModels. [Website](https://madsuite.org/powertech2025)
+- **Talk by Sungho Shin** (April 2024): Large-Scale Nonlinear Programming on GPUs: State-of-the-Art and Future Prospects. [Video](https://www.youtube.com/watch?v=MzV9Crph4BA)
+
 Each package's README lists how to cite it.
