@@ -37,7 +37,6 @@ MadSuite is a suite of open-source optimization software for GPUs, written in [J
 
 | Package | Description |
 |---|---|
-| [madsuite-py](https://github.com/madsuite-org/madsuite-py) | Python interface to ExaModels.jl |
 | [MadCheck.jl](https://github.com/madsuite-org/MadCheck.jl) | Automatic diagnosis tool for nonlinear programs |
 
 ### Benchmark libraries
