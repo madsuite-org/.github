@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-MadSuite is a suite of open-source optimization software for GPUs, written in [Julia](https://julialang.org). It covers algebraic modeling, nonlinear and linear programming solvers, and domain-specific modeling libraries. Website: [madsuite.org](https://madsuite.org).
+MadSuite is a suite of open-source optimization software for GPUs, written in [Julia](https://julialang.org). It covers algebraic modeling, nonlinear and linear programming solvers, and domain-specific modeling libraries. Website: [madsuite.org](https://madsuite.org). Subscribe to the [MadSuite mailing list](https://mailman.mit.edu/mailman/listinfo/madsuite) for updates.
 
 ### Solvers
 
@@ -56,5 +56,7 @@ MadSuite is a suite of open-source optimization software for GPUs, written in [J
 - **2025 INFORMS Annual Meeting** (October 2025): Solving Large-Scale, Sparse, Constrained Nonlinear Optimization Problems on GPUs. [Slides](https://github.com/madsuite-org/slides-informs-2025/blob/main/Shin-slides.pdf)
 - **IEEE PowerTech 2025 tutorial** (June 2025): GPU-Accelerated Optimization for Power Systems with MadNLP and ExaModels. [Website](https://madsuite.org/powertech2025)
 - **Talk by Sungho Shin** (April 2024): Large-Scale Nonlinear Programming on GPUs: State-of-the-Art and Future Prospects. [Video](https://www.youtube.com/watch?v=MzV9Crph4BA)
+
+More talks are listed at [madsuite.org](https://madsuite.org).
 
 Each package's README lists how to cite it.
